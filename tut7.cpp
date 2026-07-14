@@ -10,8 +10,9 @@ int main(){
     // cin>>a;
     // cout<<"enter the value of b :"<<endl;
     // cin>>b;
-    // c=a+b;
+    // c = a+b;
     // cout<<"the sum is ="<<c<<endl;
+
 //here we ant to access the global variable in any function then we need to call the scope resolution operator.
 //like here is present as local varible, if i call c then it will print the value that is stored in the local varibale. 
 //":: "this is scop resolution operator. it will used to access the global variable in any function.
