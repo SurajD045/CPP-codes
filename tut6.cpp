@@ -29,8 +29,8 @@ int main(){
     cout<<"the value of a is:"<<a<<endl;
     cout<<endl;
     //Assignment operators:-->
-    // int c=9, d=6;
-    // char e='a';
+    int c=9, d=6;
+    char e='a';
 
     //Comparison operators:
     cout<<"the following are the comprison operators:"<<endl;
